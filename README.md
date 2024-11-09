@@ -1,0 +1,1 @@
+# sb-modulith-basic-project
